@@ -1,2 +1,2 @@
 # CodeIgniterDemo
-CodeIgniter Framework ile oluşturulan kısa bir CRUD demo projesi. 
+CodeIgniter Framework ile oluşturulan kısa bir CRUD demo projesi. Muhammed AKKAYNAK.
